@@ -1,0 +1,44 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks used by VS Code
+.vscode/
+
+# Flutter/Dart related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbol lookup failures
+dart_crash.panic
+
+# Android related
+**/android/**/generated/
+**/android/gen/
+**/android/out/
+**/android/app/src/main/res/values/strings.xml
+.gradle/
+build/
+captures/
+externalNativeBuild/
+local.properties
